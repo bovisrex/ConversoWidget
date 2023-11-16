@@ -1,0 +1,15 @@
+C:\Users\Chris\source\repos\Convo Console App\bin\Debug\net6.0\Convo Console App.exe
+C:\Users\Chris\source\repos\Convo Console App\bin\Debug\net6.0\Convo Console App.deps.json
+C:\Users\Chris\source\repos\Convo Console App\bin\Debug\net6.0\Convo Console App.runtimeconfig.json
+C:\Users\Chris\source\repos\Convo Console App\bin\Debug\net6.0\Convo Console App.dll
+C:\Users\Chris\source\repos\Convo Console App\bin\Debug\net6.0\Convo Console App.pdb
+C:\Users\Chris\source\repos\Convo Console App\obj\Debug\net6.0\Convo Console App.csproj.AssemblyReference.cache
+C:\Users\Chris\source\repos\Convo Console App\obj\Debug\net6.0\Convo Console App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\source\repos\Convo Console App\obj\Debug\net6.0\Convo Console App.AssemblyInfoInputs.cache
+C:\Users\Chris\source\repos\Convo Console App\obj\Debug\net6.0\Convo Console App.AssemblyInfo.cs
+C:\Users\Chris\source\repos\Convo Console App\obj\Debug\net6.0\Convo Console App.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\Convo Console App\obj\Debug\net6.0\Convo Console App.dll
+C:\Users\Chris\source\repos\Convo Console App\obj\Debug\net6.0\refint\Convo Console App.dll
+C:\Users\Chris\source\repos\Convo Console App\obj\Debug\net6.0\Convo Console App.pdb
+C:\Users\Chris\source\repos\Convo Console App\obj\Debug\net6.0\Convo Console App.genruntimeconfig.cache
+C:\Users\Chris\source\repos\Convo Console App\obj\Debug\net6.0\ref\Convo Console App.dll
